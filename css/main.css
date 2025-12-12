@@ -29,3 +29,9 @@ a:hover {
 .avatar {
     max-width: 50px
 }
+
+.ecole {
+    max-width: 75px
+    height: auto;
+    widht: auto;
+}
