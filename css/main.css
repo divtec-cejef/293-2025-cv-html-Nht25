@@ -31,6 +31,11 @@ a:hover {
 }
 
 .ecole {
-    width: 100px;
+    max-width: 200px;
     color: black;
+}
+
+.formation {
+    max-width: 200px;
+    color: blac;
 }
