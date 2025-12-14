@@ -7,7 +7,7 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: darkblue;
+    color: darknight;
     background-color: whitesmoke;
 }
 
@@ -28,9 +28,4 @@ a:hover {
 
 .avatar {
     max-width: 50px
-}
-
-.formation {
-    max-width: 75px
-    widht: auto;
 }
