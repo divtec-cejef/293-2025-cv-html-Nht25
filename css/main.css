@@ -10,7 +10,9 @@ body {
     color:blue;
     background-color: orange;
 }
-
+header{
+    margin:10px;
+}
 h1 {
 font-size: 50px;
 color: black;
@@ -39,15 +41,15 @@ a:hover {
 
 .ecole {
     max-width: 200px;
-    color: black;
+    color: red;
 }
 
 .formation {
     max-width: 200px;
-    color: blac;
+    color: red;
 }
 
 .competences {
     max-width: 200px;
-    color: black;
+    color: red;
 }
