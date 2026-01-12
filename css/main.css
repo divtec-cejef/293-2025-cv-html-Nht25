@@ -11,6 +11,7 @@ body {
     background-color: orange;
     text-align: center;
     background-image: url("img/alanya.jpg");
+    backgronud-size: cover;
 }
 
 header{
