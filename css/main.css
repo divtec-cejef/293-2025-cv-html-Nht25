@@ -12,6 +12,7 @@ body {
     background-image: url("img/alanya.jpg");
     background-repeat:non-repeat;
     background-size: center;
+    coor-text: blue;
 }
 
 h1 {
