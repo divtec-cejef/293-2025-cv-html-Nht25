@@ -17,14 +17,13 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
     font-weight: 400;
     font-size: 1.5rem;
     line-height: 1.4;
     color:blue;
     background-color: orange;
     text-align: center;
-    background-image: url("img/image_arriere.jpg");
+    background-image: url("../img/image_arriere.jpg");
     font-family: "Tangerine", cursive;
 }
 
