@@ -10,7 +10,7 @@ body {
     color:blue;
     background-color: orange;
     text-align: center;
-    background-image:url("img/alanya.jpg");
+    background-image:url("../img/alanya.jpg");
 }
 
 header{
