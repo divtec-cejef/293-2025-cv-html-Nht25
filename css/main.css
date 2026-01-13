@@ -64,7 +64,6 @@ a:hover {
 }
 
 .ecole {
-    border: 3px solid black;
     max-width: 200px;
     color:black;
 }
@@ -79,4 +78,7 @@ a:hover {
     border: 2px solid black;
     max-width: 200px;
     color:black;
+}
+.experince {
+    border: 3px solid black;
 }
