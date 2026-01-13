@@ -35,6 +35,7 @@ header{
 }
 
 footer {
+    border: 5px solid black;
     margin:50px;
 }
 
@@ -45,12 +46,14 @@ background-color: white;
 }
 
 img {
+    border; 5px solid black;
     max-width: 100%;
     height: auto;
     width: auto;
 }
 
 a {
+    border: 5px solid black;
     color: blue;
     text-decoration: none;
     font-size: 1.5em;
