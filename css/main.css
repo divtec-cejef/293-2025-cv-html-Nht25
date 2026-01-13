@@ -38,9 +38,9 @@ footer {
 }
 
 h1 {
-text-shadow: 2px 2px;
+text-shadow: 2px 2px black;
 font-size: 50px;
-color: black;
+color: red;
 background-color: white;
 }
 
